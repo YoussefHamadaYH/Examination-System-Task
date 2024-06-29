@@ -1,0 +1,14 @@
+G:\ADVDay4\TaskLab4\TaskLab4\bin\Debug\net8.0\TaskLab4.exe
+G:\ADVDay4\TaskLab4\TaskLab4\bin\Debug\net8.0\TaskLab4.deps.json
+G:\ADVDay4\TaskLab4\TaskLab4\bin\Debug\net8.0\TaskLab4.runtimeconfig.json
+G:\ADVDay4\TaskLab4\TaskLab4\bin\Debug\net8.0\TaskLab4.dll
+G:\ADVDay4\TaskLab4\TaskLab4\bin\Debug\net8.0\TaskLab4.pdb
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.GeneratedMSBuildEditorConfig.editorconfig
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.AssemblyInfoInputs.cache
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.AssemblyInfo.cs
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.csproj.CoreCompileInputs.cache
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.dll
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\refint\TaskLab4.dll
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.pdb
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\TaskLab4.genruntimeconfig.cache
+G:\ADVDay4\TaskLab4\TaskLab4\obj\Debug\net8.0\ref\TaskLab4.dll
